@@ -1,0 +1,6 @@
+{
+    "ai_model": {
+        "n_estimators": 100,
+        "max_depth": 5
+    }
+}
